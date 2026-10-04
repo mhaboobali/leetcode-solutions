@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mhaboobali/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mhaboobali/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/mhaboobali/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mhaboobali/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mhaboobali/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mhaboobali/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
